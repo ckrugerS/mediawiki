@@ -138,6 +138,6 @@ wfLoadSkin( 'Vector' );
 $wgFavicon = "https://www.birdlasser.com/favicon.ico?v=2"
 
 # Disable anonymous editing
-$wgGroupPermissions['*']['edit'] = false;
-$wgShowIPinHeader = false;
+#$wgGroupPermissions['*']['edit'] = false;
+#$wgShowIPinHeader = false;
 
